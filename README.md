@@ -1,2 +1,3 @@
 # myFirstRepo
-#welcomeGitters!
+#welcome to my git hub account!
+# wish you all the best!!
